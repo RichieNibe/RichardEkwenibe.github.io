@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41f62a8f-bec3-4428-9f57-97d316abd823" name="Changes" comment="Updated resume.html">
+    <list default="true" id="41f62a8f-bec3-4428-9f57-97d316abd823" name="Changes" comment="Updated Projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Profile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700279492547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Projects">
+      <created>1701189975415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701189975415</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Commit" />
     <MESSAGE value="Updated resume.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated resume.html" />
+    <MESSAGE value="Updated Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Projects" />
   </component>
 </project>
